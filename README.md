@@ -21,8 +21,8 @@ LeadFinder is an AI-powered lead generation tool that helps businesses find pote
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd lead-finder
+git clone https://github.com/charans2702/LeadFinder-Agent.git
+cd LeadFinder-Agent
 ```
 
 ### 2. Set Up Virtual Environment
