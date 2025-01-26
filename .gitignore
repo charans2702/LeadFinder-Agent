@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Frontend specific
+lead_generation_dashboard/build/
+lead_generation_dashboard/node_modules/
+
+# Miscellaneous
+.tmp/
+.cache/

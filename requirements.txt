@@ -1,0 +1,7 @@
+firecrawl-py
+phidata
+pydantic
+groq
+python-dotenv
+fastapi
+uvicorn
